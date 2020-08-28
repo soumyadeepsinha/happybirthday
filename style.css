@@ -30,6 +30,10 @@ html {
   font-weight: 100;
 }
 
+.love {
+  color: red;
+}
+
 @media screen and (max-width: 740px) {
   .center_div {
     font-size: 3.8rem;
