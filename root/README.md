@@ -1,3 +1,0 @@
-# Happy Birthday
-
-> Confett JavaScrript
